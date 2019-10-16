@@ -1,0 +1,6 @@
+C:\git\CSE1321L_Lab8_Fall19_CS\PalindromeInteger\bin\Debug\PalindromeInteger.exe.config
+C:\git\CSE1321L_Lab8_Fall19_CS\PalindromeInteger\bin\Debug\PalindromeInteger.exe
+C:\git\CSE1321L_Lab8_Fall19_CS\PalindromeInteger\bin\Debug\PalindromeInteger.pdb
+C:\git\CSE1321L_Lab8_Fall19_CS\PalindromeInteger\obj\Debug\PalindromeInteger.csprojAssemblyReference.cache
+C:\git\CSE1321L_Lab8_Fall19_CS\PalindromeInteger\obj\Debug\PalindromeInteger.exe
+C:\git\CSE1321L_Lab8_Fall19_CS\PalindromeInteger\obj\Debug\PalindromeInteger.pdb
